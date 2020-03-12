@@ -9,8 +9,8 @@
     </groups>
     <templates>
         <template>
-            <template>Noisypeak Live encoders</template>
-            <name>Noisypeak Live encoders</name>
+            <template>NoisyPeak Live encoders</template>
+            <name>NoisyPeak Live encoders</name>
             <groups>
                 <group>
                     <name>Templates</name>
