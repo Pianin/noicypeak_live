@@ -1,2 +1,2 @@
 # noicypeak_live
-Template for monitoring NoicyPeak Live encoders over Zabbix
+Template for monitoring NoisyPeak Live encoders over Zabbix
