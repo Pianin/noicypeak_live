@@ -1,7 +1,7 @@
 # noisypeak_live
 Template for monitoring NoisyPeak Live encoders over Zabbix
 
-Monitoring only 7 metrics:
+Monitoring only 6 metrics:
 
 	failedchannels
 	gpuloadsegmented
