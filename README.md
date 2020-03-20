@@ -1,5 +1,5 @@
 # noisypeak_live
-Template for monitoring NoisyPeak Live encoders over Zabbix
+Template for monitoring NoisyPeak Live encoders over Zabbix eith using REST API v1
 
 Monitoring only 6 metrics:
 
